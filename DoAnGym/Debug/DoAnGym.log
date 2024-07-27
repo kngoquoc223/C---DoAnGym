@@ -1,0 +1,3 @@
+﻿  chuongtrinh.cpp
+c:\users\kngoq\documents\visual studio 2017\projects\doangym\doangym\chuongtrinh.cpp(7): warning C4101: 'tenHoiVien1': unreferenced local variable
+  DoAnGym.vcxproj -> C:\Users\kngoq\Documents\Visual Studio 2017\Projects\DoAnGym\Debug\DoAnGym.exe
